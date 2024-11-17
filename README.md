@@ -77,7 +77,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Vitalii-Salinskyi/Vitalii-Salinskyi/output/snake.svg" alt="Snake animation" />
-
-###
