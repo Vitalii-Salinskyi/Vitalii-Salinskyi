@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning design patterns<br>🎯 Goals: Conquer bugs and eat pizza<br>🎲 Fun fact: Don't use Arch btw... yet</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning AWS<br>🎯 Goals: Conquer bugs and eat pizza<br>🎲 Fun fact: Don't use Arch btw... yet</p>
 
 ###
 
