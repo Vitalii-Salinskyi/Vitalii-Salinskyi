@@ -1,7 +1,8 @@
 <h1 align="left">Hey 👋 What's up?</h1>
+
 ###
 
-<p align="left">My name is Vitalii and I'm a Full-stack Developer</p>
+<p align="center">My name is Vitalii and I'm a Full-stack Developer</p>
 
 ###
 
